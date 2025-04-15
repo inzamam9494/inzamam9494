@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Flutter Apps**
  
- 🌱 I’m currently learning **Flutter**
+ 🌱 I’m currently learning **React**
 
 💬 Ask me about **Flutter, Android Development, Firebase... or anything [here](https://github.com/inzamam9494/inzamam9494/issues)**
 
