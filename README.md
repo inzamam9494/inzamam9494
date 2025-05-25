@@ -71,18 +71,19 @@
 </p>
 
 <p align="center">
-  <a href="https://www.paypal.me/yourpaypal" target="_blank">
+  <a href="https://paypal.me/inzzi?country.x=IN&locale.x=en_GB" target="_blank">
     <img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Donate with PayPal"/>
   </a>
   &nbsp;
-  <a href="upi://pay?pa=yourupi@bank&pn=Your+Name" target="_blank">
+  <a href="https://gpay.mobi/mohdraj537-2@oksbi" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Pay-Support-4285F4?style=for-the-badge&logo=googlepay&logoColor=white" alt="Support with Google Pay"/>
   </a>
 </p>
 
 <p align="center">
   <strong>Or scan to pay with Google Pay:</strong><br/><br/>
-  <img src="https://your-hosted-image-url.com/your-upi-qr.png" alt="GPay QR Code" width="180"/>
+  <img src="https://github.com/user-attachments/assets/b8765acb-b351-47ea-9080-5e7aa204fcd1" alt="GPay QR Code" width="180"/>
 </p>
+
 
 
