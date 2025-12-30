@@ -70,7 +70,7 @@
   If you find my projects helpful or inspiring, consider supporting me to keep going!
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://paypal.me/inzzi?country.x=IN&locale.x=en_GB" target="_blank">
     <img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Donate with PayPal"/>
   </a>
@@ -83,7 +83,7 @@
 <p align="center">
   <strong>Or scan to pay with Google Pay:</strong><br/><br/>
   <img src="https://github.com/user-attachments/assets/b8765acb-b351-47ea-9080-5e7aa204fcd1" alt="GPay QR Code" width="180"/>
-</p>
+</p> -->
 
 
 
